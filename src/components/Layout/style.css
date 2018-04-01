@@ -1,0 +1,17 @@
+.navlinks {
+    display: flex;
+}
+
+
+.copyright {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.inlayout {
+    display: flex;
+    justify-content: center;
+}
